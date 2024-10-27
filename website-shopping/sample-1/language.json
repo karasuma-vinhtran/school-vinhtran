@@ -1,0 +1,58 @@
+{
+	"vi-VN": {
+		"listPage": ["Giới thiệu", "Sản phẩm", "Chính sách"],
+		"titleIntroduce": "Chào mừng đến với KAMASHOP!",
+		"describeIntroduce": "Chúng tôi chuyên cung cấp quần áo thời trang, thiết bị điện tử công nghệ hiện đại và các sản phẩm gia dụng tiện ích. Với nhiều mẫu mã và chất lượng đảm bảo, cửa hàng của chúng tôi luôn sẵn sàng đáp ứng nhu cầu của bạn. Hãy ghé thăm và trải nghiệm dịch vụ tuyệt vời cùng những sản phẩm đa dạng tại đây!",
+		"buttonIntroduce": "Liên hệ với tôi",
+		"titleProducts": "Sản phẩm",
+		"listProducts": "",
+		"titlePolicy": "Chính sách",
+		"listPolicies": [
+			{
+				"titlePolicies": "Chính Sách Đổi Trả",
+				"describePolicies": "Khách hàng có quyền đổi hoặc trả hàng trong vòng 7 ngày kể từ ngày nhận sản phẩm. Sản phẩm phải còn nguyên tem mác, chưa qua sử dụng và trong tình trạng như mới. Vui lòng giữ hóa đơn mua hàng để thực hiện việc đổi trả."
+			},
+			{
+				"titlePolicies": "Chính Sách Bảo Hành",
+				"describePolicies": "Chúng tôi cam kết bảo hành cho các sản phẩm điện tử trong thời gian 12 tháng kể từ ngày mua. Trong thời gian bảo hành, nếu sản phẩm gặp lỗi do nhà sản xuất, khách hàng có thể mang sản phẩm đến cửa hàng để được sửa chữa hoặc đổi mới."
+			},
+			{
+				"titlePolicies": "Giao Hàng",
+				"describePolicies": "Chúng tôi cung cấp dịch vụ giao hàng nhanh chóng trong nội thành. Thời gian giao hàng dự kiến là 1-3 ngày làm việc. Khách hàng sẽ được thông báo trước khi giao hàng và có thể chọn phương thức thanh toán khi nhận hàng."
+			},
+			{
+				"titlePolicies": "Khuyến Mãi",
+				"describePolicies": "Cửa hàng thường xuyên có chương trình khuyến mãi. Khách hàng có thể theo dõi trang web hoặc các kênh truyền thông xã hội của chúng tôi để không bỏ lỡ những ưu đãi hấp dẫn."
+			}
+		],
+		"titleCoder": "Trang web được làm bởi"
+	},
+	"en-US": {
+		"listPage": ["Introduction", "Products", "Policies"],
+		"titleIntroduce": "Welcome to KAMASHOP!",
+		"describeIntroduce": "We specialize in providing fashionable clothing, modern technology electronic devices and convenient household products. With many designs and guaranteed quality, our store is always ready to meet your needs. Come visit and experience the great service and diverse products here!",
+		"buttonIntroduce": "Contect me",
+		"titleProducts": "Product",
+		"listProducts": [
+			{
+				"titlePolicies": "Return Policy",
+				"describePolicies": "Customers are entitled to return or exchange products within 7 days of receiving them. The products must remain unused, with original tags intact, and in the same condition as received. Please keep the purchase receipt to process the return or exchange."
+			},
+			{
+				"titlePolicies": "Warranty Policy",
+				"describePolicies": "We provide a 12-month warranty for all electronic products starting from the date of purchase. During the warranty period, if the product has any manufacturing defects, customers can bring it to the store for repair or replacement."
+			},
+			{
+				"titlePolicies": "Shipping",
+				"describePolicies": "We offer fast delivery within the city. The estimated delivery time is 1-3 business days. Customers will be notified before the delivery, and payment on delivery is available as an option."
+			},
+			{
+				"titlePolicies": "Promotions",
+				"describePolicies": "Our store regularly offers promotions. Customers can follow our website or social media channels to stay updated on exciting deals."
+			}
+		],
+		"titlePolicy": "Policy",
+		"listPolicies": "abcxyz",
+		"titleCoder": "The website is made by"
+	}
+}

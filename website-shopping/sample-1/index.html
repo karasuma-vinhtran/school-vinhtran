@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>KAMASHOP</title>
+		<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+		<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+		<link href="./main/style.css" rel="stylesheet" />
+		<link rel="icon" type="image/x-icon" href="./img/favicon.ico" />
+	</head>
+	<body>
+		<div id="contact-notification">
+			<div class="header-contact">
+				<div class="title-contact">
+					<span>Liên hệ</span>
+				</div>
+				<div class="action-contact">
+					<ion-icon name="close"></ion-icon>
+				</div>
+			</div>
+			<div class="content-contact">
+				<div class="form-contact">
+					<label for="nameUser">Tên liên hệ:</label>
+					<input type="text" name="Name User" class="input" id="nameUser" placeholder="Tên....." />
+					<label for="emailUser">Email liên hệ</label>
+					<input type="email" name="Email User" class="input" id="emailUser" placeholder="Email....." />
+					<label for="messageUser">Tin nhắn liên hệ</label>
+					<textarea name="Message User" class="textarea" id="messageUser" placeholder="Tin nhắn....."></textarea>
+				</div>
+				<div class="submit-contact">
+					<button>Gửi</button>
+				</div>
+			</div>
+			<div class="footer-contact">
+				<span>Email liên hệ của tôi: vinhtran.coder2k6@gmail.com</span>
+			</div>
+		</div>
+		<div id="main">
+			<div id="header">
+				<div class="name-shop">
+					<a href="./index.html">KAMASHOP</a>
+				</div>
+				<div class="list-page">
+					<ul class="ul-desktop-ui">
+						<li class="selected"><a href="#introduce">Introduce</a></li>
+						<li class=""><a href="#products">Products</a></li>
+						<li class=""><a href="#policy">Policy</a></li>
+					</ul>
+					<div class="mobile-ui">
+						<div class="change-page">
+							<ion-icon name="menu" class="icon selected"></ion-icon>
+							<ion-icon name="close" class="icon"></ion-icon>
+						</div>
+						<ul class="ul-mobile-ui">
+							<li class="selected"><a href="#introduce">Introduce</a></li>
+							<li class=""><a href="#products">Products</a></li>
+							<li class=""><a href="#policy">Policy</a></li>
+						</ul>
+					</div>
+				</div>
+				<!-- <div class="action-more">
+					<div class="change-theme">
+						<ion-icon name="sunny" class="icon selected" id="iconSunny"></ion-icon>
+						<ion-icon name="moon" class="icon" id="iconMoon"></ion-icon>
+					</div>
+					<div class="change-language">
+						<span class="title selected" id="langEN">EN</span>
+						<span class="title" id="langVI">VI</span>
+					</div>
+				</div> -->
+			</div>
+			<div id="content">
+				<div class="page" id="introduce">
+					<div class="introduce-content">
+						<span class="title"></span>
+						<span class="describe"></span>
+						<button class="action"></button>
+					</div>
+					<div class="introduce-background"></div>
+				</div>
+				<div class="page" id="products">
+					<div class="products-title">
+						<span class="text"></span>
+						<ion-icon name="caret-forward" class="icon"></ion-icon>
+					</div>
+					<div class="products-content">
+						<div class="products-category">
+							<ul class="list-category"></ul>
+						</div>
+						<div class="products-list"></div>
+					</div>
+				</div>
+				<div class="page" id="policy">
+					<div class="policy-title">
+						<span class="text"></span>
+						<ion-icon name="caret-forward" class="icon"></ion-icon>
+					</div>
+					<div class="policy-content"></div>
+				</div>
+			</div>
+			<div id="footer"></div>
+		</div>
+		<script src="./main/script.js"></script>
+	</body>
+</html>

@@ -1,0 +1,98 @@
+{
+	"commodity-1412-001": {
+		"commodityName": ["Clothes", "Quần Áo"],
+		"commodityOnSale": true,
+		"list": [
+			{
+				"idProduct": "1412-001-0001",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0001.webp",
+				"nameProduct": "Áo thun nam cotton 100% Artsman",
+				"priceNewProduct": "119000",
+				"priceOldProduct": "220000",
+				"quantityInShopProduct": "287"
+			},
+			{
+				"idProduct": "1412-001-0002",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0002.webp",
+				"nameProduct": "Áo thun nam nữ tay lỡ unisex AD-Trend",
+				"priceNewProduct": "29000",
+				"priceOldProduct": "118000",
+				"quantityInShopProduct": "82"
+			},
+			{
+				"idProduct": "1412-001-0003",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0003.webp",
+				"nameProduct": "Áo thun tay lỡ form rộng unisex PANDA",
+				"priceNewProduct": "29000",
+				"priceOldProduct": "60000",
+				"quantityInShopProduct": "430"
+			},
+			{
+				"idProduct": "1412-001-0004",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0004.webp",
+				"nameProduct": "Áo polo nam nữ ESSEFAUST",
+				"priceNewProduct": "85000",
+				"priceOldProduct": "150000",
+				"quantityInShopProduct": "697"
+			},
+			{
+				"idProduct": "1412-001-0005",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0005.webp",
+				"nameProduct": "Áo thun unisex in chữ nổi SATURDAY NAD",
+				"priceNewProduct": "79000",
+				"priceOldProduct": "150000",
+				"quantityInShopProduct": "960"
+			},
+			{
+				"idProduct": "1412-001-0006",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0006.webp",
+				"nameProduct": "Áo Hoodie thêu chữ basic nam nữ unisex",
+				"priceNewProduct": "169000",
+				"priceOldProduct": "318000",
+				"quantityInShopProduct": "163"
+			},
+			{
+				"idProduct": "1412-001-0007",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0007.webp",
+				"nameProduct": "Áo hoodie - khoác nỉ Bomber Unisex in chữ MISTERHIZII",
+				"priceNewProduct": "159000",
+				"priceOldProduct": "220000",
+				"quantityInShopProduct": "564"
+			},
+			{
+				"idProduct": "1412-001-0008",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0008.webp",
+				"nameProduct": "Áo khoác phao mùa đông trơn",
+				"priceNewProduct": "189000",
+				"priceOldProduct": "350000",
+				"quantityInShopProduct": "139"
+			},
+			{
+				"idProduct": "1412-001-0009",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0009.webp",
+				"nameProduct": "Áo khoác phao nam có nón tháo rời",
+				"priceNewProduct": "175000",
+				"priceOldProduct": "350000",
+				"quantityInShopProduct": "97"
+			},
+			{
+				"idProduct": "1412-001-0010",
+				"imgProduct": "./img/product/commodity-1412-001/product-1412-001-0010.webp",
+				"nameProduct": "Áo phao nam nữ lót lông cừu FEAR OF GOD",
+				"priceNewProduct": "289000",
+				"priceOldProduct": "460000",
+				"quantityInShopProduct": "413"
+			}
+		]
+	},
+	"commodity-1412-002": {
+		"commodityName": ["Technology Equipment", "Công Nghệ"],
+		"commodityOnSale": false,
+		"list": []
+	},
+	"commodity-1412-003": {
+		"commodityName": ["Household Appliances", "Gia Dụng"],
+		"commodityOnSale": false,
+		"list": []
+	}
+}
